@@ -172,7 +172,9 @@ public class ApiExamTranslateNmt {
 }
  ```
 <hr>
+
 # API 활용 앱 With ChatGPT
+
  ## 프로젝트 Manifest 퍼미션 추가
   ``` java
     <!--  인터넷 통신을 위한 퍼미션  -->
